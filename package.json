@@ -1,12 +1,14 @@
 {
   "name": "netflix-clone",
+  "homepage": "https://Tejas-tech-ops.github.io/Netflix-clone-app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "preview": "vite-preview"
   },
   "dependencies": {
     "firebase": "^11.3.0",
